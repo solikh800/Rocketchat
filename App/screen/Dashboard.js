@@ -4,7 +4,8 @@ import {View, StyleSheet, Text} from 'react-native';
 const Dashboard = props => {
   return (
     <View style={styles.container}>
-      <Text> Dashboard </Text>
+      <Text>Start</Text>
+      <Text>to start</Text>
     </View>
   );
 };
